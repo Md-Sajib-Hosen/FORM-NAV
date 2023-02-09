@@ -1,0 +1,30 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    text-align: center;
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+fieldset{
+    margin-bottom: 10px;
+}
+
+form{
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+    font-size: 2rem;
+    
+}
+.nav-bar{
+    list-style: none;
+    
+}
+li{
+    display: inline;
+    padding-left: 10px;
+}

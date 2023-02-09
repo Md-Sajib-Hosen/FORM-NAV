@@ -1,0 +1,33 @@
+
+.nav-var{
+    display: flex;
+    
+}
+.nav-var a{
+    text-decoration: none;
+    color: black;
+    
+
+}
+nav li{
+    list-style: none;
+    margin-right: 20px;
+    font-size: 20px;
+    padding: 0 5px;
+    
+}
+nav li:hover{
+    background-color:lightgray;
+    
+}
+
+.img{
+    height: 200px;
+    background-image: url(../images/butterfly.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom center;
+    background-color: rgb(50, 134, 134);
+    background-blend-mode: multiply;
+
+}
